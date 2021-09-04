@@ -1,1 +1,1 @@
-## This Repo features the projests imlplemented by me for learning and improving my skills
+## This Repo features projects imlplemented by me for learning and improving my skills
